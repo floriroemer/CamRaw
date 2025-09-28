@@ -1,6 +1,6 @@
 # CamRaw 📷
 
-<img width="120" height="120" alt="CamRaw Logo" src="Logo.png" />
+<img width="120" height="120" alt="CamRaw Logo" src="assets/Logo.png" />
 
 A simple, cross-platform camera application built with Python that allows you to take photos and record videos with camera selection capabilities.
 
